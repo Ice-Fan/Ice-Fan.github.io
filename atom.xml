@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ice-fan.github.io</id>
+    <title>脱碳甲醛与氢化脱磺硫酸混合电解</title>
+    <updated>2023-02-03T21:20:27.329Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ice-fan.github.io"/>
+    <link rel="self" href="https://ice-fan.github.io/atom.xml"/>
+    <subtitle>一个能满足绝大部分男性需求的导航网站</subtitle>
+    <logo>https://ice-fan.github.io/images/avatar.png</logo>
+    <icon>https://ice-fan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 脱碳甲醛与氢化脱磺硫酸混合电解</rights>
+</feed>
